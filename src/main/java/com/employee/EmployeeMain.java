@@ -3,12 +3,14 @@ package com.employee;
 import java.util.Scanner;
 
 /**
- * UC12 - instead of array
+ * UC13 - Ability to get the
  *
  * Requirements:
-     *   - Store the Daily
-     *   - Wage along with
-     *   - the Total Wage
+     *   - Total Wage when
+     *   - queried by Company
+     *   - Create Method in
+     *   - EmpWageBuilder to get total
+     *   - wage by Company
  *
  * @author  Kalees-bridgelabz
  * @version 1.0
@@ -18,10 +20,10 @@ public class EmployeeMain {
     public static void main(String[] args) {
         System.out.println("Welcome to Employee");
         
-        System.out.println("\n=== UC12: instead of array ===");
-        // TODO: Implement UC12
+        System.out.println("\n=== UC13: Ability to get the ===");
+        // TODO: Implement UC13
         // 
-Store the Daily        // Wage along with        // the Total Wage
-        System.out.println("UC12 - Implementation pending");
+Total Wage when        // queried by Company        // Create Method in
+        System.out.println("UC13 - Implementation pending");
     }
 }
